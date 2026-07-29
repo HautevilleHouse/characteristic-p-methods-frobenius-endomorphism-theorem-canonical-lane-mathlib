@@ -1,0 +1,9 @@
+import characteristic_p_methods_frobenius_endomorphism_theorem_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace characteristic_p_methods_frobenius_endomorphism_theorem_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end characteristic_p_methods_frobenius_endomorphism_theorem_canonical_lane_mathlib
+end HautevilleHouse
